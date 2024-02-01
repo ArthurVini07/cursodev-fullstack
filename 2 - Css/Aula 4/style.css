@@ -1,0 +1,18 @@
+body {
+    background: #e6e6e6
+} 
+
+p{
+    color: rgb(25, 25, 25);
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+    /* pode ser usado assim mas simplificamos somente com border
+    border-width: 200px;
+    border-style: solid;
+    border-color: white;
+    */
+}
